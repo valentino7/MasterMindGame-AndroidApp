@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MasterMind</string>
+    <string name="istruzioni1">MASTERMIND 欢迎你！</string>
+    <string name="istruzioni2">MasterMind 是一个为书呆子的赛！你要猜猜密码的对的答案，但是你只会有10个企图!</string>
+    <string name="istruzioni3">密码是一条有色针的程序：在容易和中等的水平有四个针， 在难的水平有五个。 为了开有色的针的箱子， 点击一个空处。 然后选哪针你想用为了程序完全的好！ 要是你想更一个针，点击一个你已经选的针然后选别的针！  要是你想知道你的答案很对或者不对，点击“考”， 然后几个劝告会出来：有白的针要是你猜了对的针的色， 但是没猜针的对位。 但是，要是你猜对的色和对的位，黑色的针会出来。</string>
+    <string name="istruzioni4">注意！在对的程序你可以有同色的针，所以要小心！</string>
+    <string name="facile">容易</string>
+    <string name="Medio">中等</string>
+    <string name="difficile">难</string>
+    <string name="btn_instructions">指令</string>
+    <string name="avanti">离去</string>
+    <string name="btn_game_history">赛的 沿革</string>
+    <string name="storicoVittoria">赢了</string>
+    <string name="storicoSconfitta">掉了</string>
+    <string name="fineGiocoVinto">你赢了啊！</string>
+    <string name="fineGiocoPerso">你掉了。。。</string>
+    <string name="btnCheck">考</string>
+    <string name="ritirato">退</string>
+    <string name="tentativi">企图 :</string>
+</resources>

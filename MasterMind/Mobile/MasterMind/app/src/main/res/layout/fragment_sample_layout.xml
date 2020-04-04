@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="@dimen/marginTop10"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@drawable/photo">
+
+    <TextView
+        android:id="@+id/twRisultato"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@android:style/TextAppearance.Material.Large"
+        android:textSize="22sp"
+        android:fontFamily="casual"
+        android:textAlignment="center"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listViewFragment"
+        android:layout_weight="1.01"
+        tools:ignore="InefficientWeight" />
+
+    <Button
+        android:id="@+id/btnOk2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/avanti"
+        style="@android:style/Widget.Material.Light.Button.Borderless"
+        android:textAppearance="@android:style/TextAppearance.Material.Large"
+        android:fontFamily="casual"
+        android:textStyle="normal|bold" />
+</LinearLayout>

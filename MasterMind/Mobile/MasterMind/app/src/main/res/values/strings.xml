@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MasterMind</string>
+    <string name="btn_game_history">Game History</string>
+    <string name="btn_instructions">Instructions</string>
+    <string name="facile">Easy</string>
+    <string name="Medio">Medium</string>
+    <string name="difficile">Hard</string>
+    <string name="avanti">Exit</string>
+    <string name="btnCheck">Check</string>
+    <string name="fineGiocoPerso">YOU LOSE</string>
+    <string name="fineGiocoVinto">YOU WIN</string>
+    <string name="tentativi">Attempts : </string>
+    <string name="storicoSconfitta">Lose</string>
+    <string name="istruzioni1">WELCOME TO MASTERMIND !</string>
+    <string name="istruzioni2">MasterMind is a game for smart dudes, your goal is to guess the solution of the secret code you are given in only 10 attempts! </string>
+    <string name="ritirato">Withdrawn</string>
+    <string name="storicoVittoria">Win</string>
+    <string name="istruzioni4">ATTENTION! In the right sequence you could have even 2 or more pins of the same colour, so be careful!Good Luck!!!</string>
+    <string name="istruzioni3">The code is composed by a combination of small coloured pins: 4 pins for the easy and medium modes, 5 pins in the hard
+        mode!Touch an empty place of the combination to open the box of the coloured pins, then choose the one you want to put in the sequence!
+        Touch one pin you have already chosen to change it with another pin!
+        Click on “Check” once you choosed the sequence you want, and for each attempt you will be given some advices: white pins will appear if you got
+        the right colour of some pins in the sequence, but not the right position; black pins will appear instead if you got the right colour AND the
+        right position of the pin in the sequence.</string>
+
+</resources>

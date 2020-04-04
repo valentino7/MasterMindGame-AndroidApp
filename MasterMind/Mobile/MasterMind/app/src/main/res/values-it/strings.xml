@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MasterMind</string>
+    <string name="Medio">Medio</string>
+    <string name="avanti">Esci</string>
+    <string name="btnCheck">Verifica</string>
+    <string name="btn_instructions">Istruzioni</string>
+    <string name="difficile">Difficile</string>
+    <string name="facile">Facile</string>
+    <string name="btn_game_history">Storico partite</string>
+    <string name="fineGiocoPerso">Hai perso</string>
+    <string name="fineGiocoVinto">Hai vinto</string>
+    <string name="storicoSconfitta">Sconfitta</string>
+    <string name="storicoVittoria">Vittoria</string>
+    <string name="ritirato">Ritirato</string>
+    <string name="tentativi">Tentativi :</string>
+    <string name="istruzioni1">BENVENUTO IN MASTERMIND !</string>
+    <string name="istruzioni2">MasterMind è un gioco per cervelloni, il tuo obiettivo sarà riuscire ad indovinare un codice segreto in soli dieci tentativi!</string>
+    <string name="istruzioni3">Il codice è composto da una combinazione di palline colorate: 4 palline nella modalità principiante e intermedio, 5 palline per quella esperto! Tocca uno spazio della combinazione per aprire la griglia delle palline colorate e scegli quella che vuoi posizionare.  Toccane una che hai già scelto per sostituirla con una nuova!  Clicca "Verifica" una volta scelta la combinazione! Ad ogni tentativo, ti saranno dati dei suggerimenti: compariranno delle palline bianche se avrai indovinato il colore, ma non la posizione. Compariranno delle palline nere, invece, se oltre al colore avrai indovinato anche la posizione della pallina. </string>
+    <string name="istruzioni4">ATTENZIONE! La soluzione potrà contenere anche più palline dello stesso colore !  Buona fortuna!!!</string>
+</resources>
